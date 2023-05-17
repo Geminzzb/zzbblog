@@ -1,0 +1,12 @@
+com\zzb\controller\MenuController.class
+com\zzb\controller\RoleController.class
+com\zzb\controller\AdminUserController.class
+com\zzb\BlogAdminApplication.class
+com\zzb\filter\JwtAuthenticationTokenFilter.class
+com\zzb\controller\LoginController.class
+com\zzb\config\SecurityConfig.class
+com\zzb\controller\UploadController.class
+com\zzb\controller\TagController.class
+com\zzb\controller\ArticleController.class
+com\zzb\controller\LinkController.class
+com\zzb\controller\ArticleCategoryController.class
