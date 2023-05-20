@@ -29,7 +29,7 @@
 
 **测试账号：** zzb，**密码**：zzb226
 
-**Github 地址：** [https://github.com/ttkican/Blog](https://github.com/ttkican/Blog)
+**Github 地址：**https://github.com/Geminzzb/zzbblog
 
 ## 本地运行
 
